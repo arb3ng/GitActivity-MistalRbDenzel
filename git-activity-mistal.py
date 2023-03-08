@@ -1,3 +1,6 @@
 print ("Rb Denzel H. Mistal") 
 print ("Brgy.Janagdong, Mogpog, Marinduque") 
 print ("May 7, 2003")
+print ("BSI/T")
+print ("2")
+print ("C")
